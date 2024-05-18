@@ -1,1 +1,1 @@
-# auroraborealis.github.com
+# auroraborealis.github.io

@@ -1,4 +1,4 @@
-# auroraborealis.github.io
+# blog.auroraborealis.com
 <!DOCTYPE html>
 <html>
   <head>
